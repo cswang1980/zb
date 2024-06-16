@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.gitmirror.com/cswang1980/zb/main/TVlist
 
 #EXTINF:-1 group-title="👉公        告",👇intro
 http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
@@ -74,7 +75,7 @@ http://106.46.114.104:8011/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=
 http://106.46.114.104:8011/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="📡卫视频道",深圳卫视
 http://106.46.114.104:8011/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="📡卫视频道”,湖南卫视
+#EXTINF:-1 group-title="未分类",湖南卫视
 http://175.10.228.46:8081/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="📡卫视频道",湖北卫视
 http://106.46.114.104:8011/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -87,23 +88,21 @@ http://106.46.114.104:8011/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 group-title="📡卫视频道",陕西卫视
 http://106.46.114.104:8011/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1 group-title="📡其他频道”,天映经典
+#EXTINF:-1 group-title="📡其他频道",天映经典
 https://histar.zapi.us.kg/?id=cccm
-#EXTINF:-1 group-title="📡其他频道”,天映频道
+#EXTINF:-1 group-title="📡其他频道",天映频道
 https://histar.zapi.us.kg/?id=celestial
-#EXTINF:-1 group-title="📡其他频道”,CHC动作电影
+#EXTINF:-1 group-title="📡其他频道",CHC动作电影
 http://117.23.162.97:9001/rtp/239.112.205.207:5140
-#EXTINF:-1 group-title="📡其他频道”,CHC影迷电影
+#EXTINF:-1 group-title="📡其他频道",CHC影迷电影
 http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-#EXTINF:-1 group-title="📡其他频道”,CHC家庭影院
+#EXTINF:-1 group-title="📡其他频道",CHC家庭影院
 https://histar.zapi.us.kg/?id=chc-jtyy
-#EXTINF:-1 group-title="📡其他频道”,峨眉电影
+#EXTINF:-1 group-title="📡其他频道",峨眉电影
 http://171.212.81.165:8096/udp/239.93.0.252:5140
 #EXTINF:-1 group-title="📡其他频道",金鹰卡通
 http://106.46.114.104:8011/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1 group-title="🥇重温经典",封神榜86版
-https://live.metshop.top/yy/1353426319
 #EXTINF:-1 group-title="🥇重温经典",三国演义94版
 http://cfss.cc/cdn/hy/11602081.flv
 #EXTINF:-1 group-title="🥇重温经典",新三国演义10版
