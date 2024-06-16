@@ -1,8 +1,3 @@
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://raw.gitmirror.com/cswang1980/zb/main/TVlist
-
 #EXTINF:-1 group-title="👉公        告",👇intro
 http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
 #EXTINF:-1 group-title="👉公        告",👇sancha 凤舞九天
