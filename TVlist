@@ -102,7 +102,7 @@ http://171.212.81.165:8096/udp/239.93.0.252:5140
 #EXTINF:-1 group-title="📡其他频道",金鹰卡通
 http://106.46.114.104:8011/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
-\#EXTINF:-1 group-title="🥇重温经典",封神榜86版
+#EXTINF:-1 group-title="🥇重温经典",封神榜86版
 https://live.metshop.top/yy/1353426319
 #EXTINF:-1 group-title="🥇重温经典",三国演义94版
 http://cfss.cc/cdn/hy/11602081.flv
